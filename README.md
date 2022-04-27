@@ -3,7 +3,7 @@ You can print as many PacMen as you want and make them come alive by bouncing of
 ## How To Run: 
 ### 1. Press 'Add PacMan' Button
 ### 2. Then press Start Game
-<img src="PacMan1.png">
+<img src="./images/PacMan1.png">
 
 ## Roadmap of Future Development:
 #### 1. Make the PacMan face the opposite direction after bumping.
