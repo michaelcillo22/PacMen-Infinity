@@ -9,3 +9,6 @@ You can print as many PacMen as you want and make them come alive by bouncing of
 #### 1. Make the PacMan face the opposite direction after bumping.
 #### 2. Draw Mazes onto the Grid where the PacMen can navigate through...
 #### 3. Add the enemies...
+
+## License
+MiT License 2022 Michael Cillo
